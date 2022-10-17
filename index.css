@@ -6,8 +6,9 @@ html, body {
 /* layout */
 
 .container {
-    width: 800px;
+    width: 375px;
     margin: 0 auto;
+    border: 1px solid;
 }
 
 
@@ -17,4 +18,10 @@ html, body {
 .user-avatar {
     width: 34px;
     border-radius: 50%;
+
+}
+
+.logo {
+    width: 127px;
+    margin-right: 183px;
 }
