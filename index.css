@@ -10,3 +10,11 @@ html, body {
     margin: 0 auto;
 }
 
+
+
+/* images */
+
+.user-avatar {
+    width: 34px;
+    border-radius: 50%;
+}
