@@ -12,9 +12,13 @@ html, body {
 }
 
 header .container {
-    border-bottom: 1px solid #C6C6C6
+    border-bottom: 1px solid #C6C6C6;
+    
 }
 
+.van-gogh-avatar, .van-gogh-name {
+    display: inline-block;
+}
 
 /* images */
 
@@ -36,12 +40,16 @@ header .container {
 }
 
 .van-gogh-avatar {
-    margin-top: 9px;
+    margin-top: 8px;
+    position: absolute;
 }
 
 
 /* Typography */
 
 .Van-gogh-name {
-    display: inline;
+    font-size: 13px;
+    margin-top: 11;
+    margin-left: 40px;
+    
 }
