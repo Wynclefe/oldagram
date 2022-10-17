@@ -18,9 +18,12 @@ header .container {
 
 /* images */
 
-.user-avatar {
+.van-gogh-avatar, .user-avatar {
     width: 34px;
     border-radius: 50%;
+}
+
+.user-avatar {
     margin-bottom: 12px;
     margin-right: 0x;
 
@@ -31,3 +34,4 @@ header .container {
     margin-right: 190px;
     margin-left: 8px;
 }
+
