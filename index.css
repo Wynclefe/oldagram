@@ -41,8 +41,12 @@ html, body {
     width: 22.38px;
     margin-top: 12px;
     margin-right: 10px;
+    border-radius: 0;
 }
 
+.btn:hover, .btn:focus {
+    opacity: 0.5;
+}
 
 /* Typography */
 
