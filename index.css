@@ -72,6 +72,14 @@ html, body {
     line-height: 15px;
 }
 
+.likes {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    margin-top: 8px;
+}
+
 /* layout */
 
 .container {
