@@ -51,5 +51,8 @@ header .container {
     font-size: 13px;
     margin-top: 11;
     margin-left: 40px;
-    
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
 }
