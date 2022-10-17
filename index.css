@@ -35,7 +35,7 @@ html, body {
 .Van-gogh-name {
     position:absolute;
     font-size: 13px;
-    margin-top: 11;
+    margin-top: 9px;
     margin-left: 53px;
     font-family: 'Source Sans Pro';
     font-style: normal;
@@ -44,10 +44,14 @@ html, body {
 }
 
 .place {
+    position: absolute;
     font-family: 'Source Sans Pro';
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
+    margin-top: 25px;
+    margin-left: 53px;
+    line-height: 15px;
 }
 
 /* layout */
