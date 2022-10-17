@@ -8,10 +8,12 @@ html, body {
 .container {
     width: 375px;
     margin: 0 auto;
-    border: 1px solid;
     padding-right: 0;
 }
 
+header .container {
+    border-bottom: 1px solid #C6C6C6
+}
 
 
 /* images */
