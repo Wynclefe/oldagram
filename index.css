@@ -80,6 +80,17 @@ html, body {
     margin-top: 8px;
 }
 
+.caption, .username {
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-size: 13px;
+line-height: 16px;
+}
+
+.username {
+font-weight: 700;
+
+}
 /* layout */
 
 .container {
