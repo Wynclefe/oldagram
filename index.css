@@ -3,22 +3,6 @@ html, body {
     padding: 0;
 }
 
-/* layout */
-
-.container {
-    width: 375px;
-    margin: 0 auto;
-    padding-right: 0;
-}
-
-header .container {
-    border-bottom: 1px solid #C6C6C6;
-    
-}
-
-.van-gogh-avatar, .van-gogh-name {
-    display: inline-block;
-}
 
 /* images */
 
@@ -42,17 +26,33 @@ header .container {
 .van-gogh-avatar {
     margin-top: 8px;
     position: absolute;
+    margin-left: 12px;
 }
 
 
 /* Typography */
 
 .Van-gogh-name {
+    position:absolute;
     font-size: 13px;
     margin-top: 11;
-    margin-left: 40px;
+    margin-left: 53px;
     font-family: 'Source Sans Pro';
     font-style: normal;
     font-weight: 700;
     font-size: 13px;
 }
+
+/* layout */
+
+.container {
+    width: 375px;
+    margin: 0 auto;
+    padding-right: 0;
+}
+
+header .container {
+    border-bottom: 1px solid #C6C6C6;
+    
+}
+
