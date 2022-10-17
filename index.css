@@ -29,6 +29,14 @@ html, body {
     margin-left: 12px;
 }
 
+.Van-gogh-post {
+    width: 375px;
+    height: 375px;
+    left: 0px;
+    top: 55px;
+    margin: 55px auto 0 auto;
+}
+
 
 /* Typography */
 
