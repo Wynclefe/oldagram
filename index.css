@@ -38,3 +38,10 @@ header .container {
 .van-gogh-avatar {
     margin-top: 9px;
 }
+
+
+/* Typography */
+
+.Van-gogh-name {
+    display: inline;
+}
