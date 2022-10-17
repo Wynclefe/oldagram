@@ -37,6 +37,12 @@ html, body {
     margin: 55px auto 0 auto;
 }
 
+.btn {
+    width: 22.38px;
+    margin-top: 12px;
+    margin-right: 10px;
+}
+
 
 /* Typography */
 
@@ -73,5 +79,9 @@ html, body {
 header .container {
     border-bottom: 1px solid #C6C6C6;
     
+}
+
+.interaction-section {
+    margin-left: 10px;
 }
 
